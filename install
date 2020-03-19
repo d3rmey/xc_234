@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ;
+
 import subprocess, os, random, string, sys, shutil, socket
 from itertools import cycle, izip
 
